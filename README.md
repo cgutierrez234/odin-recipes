@@ -1,1 +1,1 @@
-# odin-recipes
+I will be demonstrating basic HTML skills as well as absolute linking within this simple website. 
